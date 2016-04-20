@@ -1,1 +1,3 @@
-# Hello-World
+# Hello-World,
+
+I am Gary from from Africa; the purpose of my presence here in india is based on studies (Computer Science).
